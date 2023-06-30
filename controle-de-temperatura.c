@@ -3,7 +3,7 @@
 int main() {
     
 	int opcao, cooler;
-    float tensao, temperatura;
+	float tensao, temperatura;
     
     do {
        
